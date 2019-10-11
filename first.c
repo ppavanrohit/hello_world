@@ -2,7 +2,7 @@
 void main()
 {
     
-        printf(" Hello world!\n Hello git");
+        printf(" Hello world!\n Hello github");
         printf("\n Welcome to KOZHIKODE");
     
 }
